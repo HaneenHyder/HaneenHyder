@@ -1,7 +1,7 @@
 ![MasterHead](https://i0.wp.com/plopdo.com/wp-content/uploads/2021/10/Web-Development-San-Francisco-1.jpeg?w=1140&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Haneen Hyder</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Indian frontend developer who's so passionate about coding, they could probably write HTML in their sleep...in binary!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneenhyder&label=Profile%20views&color=0e75b6&style=flat" alt="haneenhyder" /> </p>
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ha_neen_010" target="blank"><img src="https://img.shields.io/twitter/follow/ha_neen_010?logo=twitter&style=for-the-badge" alt="ha_neen_010" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Javascript** 
 
 - 📫 How to reach me **nanuhaneen@gmail.com**
 
