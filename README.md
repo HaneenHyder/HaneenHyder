@@ -67,10 +67,10 @@
     src="https://github-readme-stats.vercel.app/api?username=haneenhyder&show_icons=true&v=1" />
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=haneenhyder&v=1" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=haneenhyder&v=1" />
 </p>
+
 
 
 
