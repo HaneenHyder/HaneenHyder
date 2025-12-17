@@ -57,11 +57,20 @@
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenhyder&show_icons=true&locale=en&layout=compact" alt="haneenhyder" /></p>
+<p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenhyder&layout=compact&v=1" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneenhyder&show_icons=true&locale=en" alt="haneenhyder" /></p>
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=haneenhyder&show_icons=true&v=1" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haneenhyder&" alt="haneenhyder" /></p>
+<p>
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=haneenhyder&v=1" />
+</p>
 
 
 
